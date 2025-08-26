@@ -1,0 +1,5 @@
+#ignore .md format file 
+*.md
+
+#ignore below folder 
+hands-on-labs/
